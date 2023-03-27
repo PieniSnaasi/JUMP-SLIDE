@@ -1,0 +1,26 @@
+.character {
+    background-color: red;
+    height: 50px;
+    width: 40px;
+    position: absolute;
+    bottom: 0;
+    border-radius: 100px;
+}
+
+.character-slide {
+    background-color: red;
+    height: 40px;
+    width: 50px;
+    position: absolute;
+    bottom: 0;
+    border-radius: 100px;
+}
+
+.header {
+    text-align: center;
+    font-family: sans-serif;
+}
+
+body {
+    border: 5px solid black
+}
